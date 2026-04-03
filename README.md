@@ -2,6 +2,7 @@
 
 ## Introduction
 This project involves the modeling, simulation, and control of an industrial manipulator as part of the Servosystems & Robotics course. The primary objective is to execute a complex trajectory approximating the letter "b" located on an inclined plane. The study covers the entire robotics pipeline, from kinematic modeling to dynamic control and simulation validation.
+![Robot's Trajectory](images/Robot_Traiettoria_completa.png)
 
 ## Kinematic Analysis
 The kinematic study includes both direct and inverse analysis at the position, velocity, and acceleration levels.
