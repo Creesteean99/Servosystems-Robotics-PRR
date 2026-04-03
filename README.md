@@ -38,5 +38,4 @@ The simulation verifies the continuity of position and velocity throughout the t
 ![Final Simulation Result](images/simulazione_simscape_coppie.png)
 
 ## Software
-* Analytical and numerical methods.
 * MATLAB / Simscape.
